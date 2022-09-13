@@ -1,1 +1,2 @@
-Chave = LevelUp
+1° Chave = LevelUp
+2° Chave = Journey
